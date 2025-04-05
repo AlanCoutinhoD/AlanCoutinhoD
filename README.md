@@ -12,8 +12,8 @@
 - 📫 Reach me at **[alanemmanueldiazcoutino@email.com]** or on [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/alan-emmanuel-diaz-813b13224/))
 
 🛠️ Tech Stack
-
-<span align ="center">
+<div align ="center">
+<span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
@@ -22,7 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
 </span>
-
+</div>
   📈 **Mis estadísticas de GitHub**
   <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AlanCoutinhoD&show_icons=true&theme=tokyonight" width="400"/>
