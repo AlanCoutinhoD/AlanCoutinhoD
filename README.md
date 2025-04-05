@@ -7,9 +7,10 @@
 </h1>
 
 👨‍💻 About Me
+<div align="right">
 - 🔭 I’m currently studing on university politecnica from Chiapas
 - 📫 Reach me at **[alanemmanueldiazcoutino@email.com]** or on [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/alan-emmanuel-diaz-813b13224/))
-
+</div>
   📈 **Mis estadísticas de GitHub**
   <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AlanCoutinhoD&show_icons=true&theme=tokyonight" width="400"/>
