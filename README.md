@@ -2,9 +2,11 @@
 <img src="https://giffiles.alphacoders.com/610/61072.gif" alt="HI" width="300"/>
 </div>
 
-<h1 align="center">¡Hola, soy [Alan Coutiño] !</h1>
+<h1 align="center">¡Hi, i am [Alan Coutiño] !
+<p><em>Passionate Developer | Tech Enthusiast | Lifelong Learner</em></p>
+</h1>
 
-
+👨‍💻 About Me
 - 🔭 I’m currently studing on university politecnica from Chiapas
 
 
