@@ -7,7 +7,7 @@
 </h1>
 <br><br>
 👨‍💻 About Me
-
+<br><br>
 - 🔭 I’m currently studing on university politecnica from Chiapas
 - 🌱 I love understanding how software works internally and learning new techniques.
 - ⚡ I love developing APIs using techniques like MVC
