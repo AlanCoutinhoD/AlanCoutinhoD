@@ -13,7 +13,7 @@
 
 
 <div align ="center">
-  🛠️ Tech Stack
+  <div>🛠️ Tech Stack</div>
 <span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
