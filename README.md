@@ -7,10 +7,19 @@
 </h1>
 
 👨‍💻 About Me
-<div align="right">
+
 - 🔭 I’m currently studing on university politecnica from Chiapas
 - 📫 Reach me at **[alanemmanueldiazcoutino@email.com]** or on [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/alan-emmanuel-diaz-813b13224/))
-</div>
+
+🛠️ Tech Stack
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
+
+
   📈 **Mis estadísticas de GitHub**
   <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AlanCoutinhoD&show_icons=true&theme=tokyonight" width="400"/>
