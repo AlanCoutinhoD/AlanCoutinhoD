@@ -12,7 +12,7 @@
 <br>- 🌱 I love understanding how software works internally and learning new techniques.
 <br>- ⚡ I love developing APIs using techniques like MVC
 <br>- 💬 I like to play video games with friends.
-
+<br><br>
 <div align ="center">
   <div>🛠️ Tech Stack</div>
   <br><br>
