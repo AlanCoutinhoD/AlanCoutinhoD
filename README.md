@@ -1,4 +1,4 @@
-<img src="https://giffiles.alphacoders.com/610/61072.gif" alt="HI" width="300"/>
+<center><img src="https://giffiles.alphacoders.com/610/61072.gif" alt="HI" width="300"/></center>
 
 ## Hi there 👋
 - 🔭 I’m currently studing on university politecnica from Chiapas
