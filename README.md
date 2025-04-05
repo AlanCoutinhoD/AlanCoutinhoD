@@ -1,3 +1,5 @@
+<img src="https://giffiles.alphacoders.com/610/61072.gif" alt="HI" width="300"/>
+
 ## Hi there 👋
 - 🔭 I’m currently studing on university politecnica from Chiapas
 <!--
