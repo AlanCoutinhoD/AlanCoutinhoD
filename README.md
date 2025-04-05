@@ -8,10 +8,10 @@
 <br><br>
 👨‍💻 About Me
 <br><br>
-- 🔭 I’m currently studing on university politecnica from Chiapas
-- 🌱 I love understanding how software works internally and learning new techniques.
-- ⚡ I love developing APIs using techniques like MVC
-- 📫 Reach me at **[alanemmanueldiazcoutino@email.com]** or on [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/alan-emmanuel-diaz-813b13224/))
+<br>- 🔭 I’m currently studing on university politecnica from Chiapas
+<br>- 🌱 I love understanding how software works internally and learning new techniques.
+<br>- ⚡ I love developing APIs using techniques like MVC
+<br>- 📫 Reach me at **[alanemmanueldiazcoutino@email.com]** or on [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/alan-emmanuel-diaz-813b13224/))
 <br><br>
 
 <div align ="center">
