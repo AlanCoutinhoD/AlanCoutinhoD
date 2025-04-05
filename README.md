@@ -8,7 +8,7 @@
 
 👨‍💻 About Me
 - 🔭 I’m currently studing on university politecnica from Chiapas
-
+- 📫 Reach me at **[alanemmanueldiazcoutino@email.com]** or on [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/alan-emmanuel-diaz-813b13224/))
 
   📈 **Mis estadísticas de GitHub**
   <div align="center">
