@@ -5,7 +5,7 @@
 <h1 align="center">¡Hi, i am [Alan Coutiño] !
 <p><em>Passionate Developer | Tech Enthusiast | Lifelong Learner</em></p>
 </h1>
-
+<br><br>
 👨‍💻 About Me
 
 - 🔭 I’m currently studing on university politecnica from Chiapas
