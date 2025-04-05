@@ -2,9 +2,15 @@
 <img src="https://giffiles.alphacoders.com/610/61072.gif" alt="HI" width="300"/>
 </div>
 
+<h1 align="center">¡Hola, soy [Alan Coutiño] !</h1>
 
-## Hi there 👋
+
 - 🔭 I’m currently studing on university politecnica from Chiapas
+
+  <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlanCoutinhoD&show_icons=true&theme=tokyonight" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlanCoutonhoD&theme=tokyonight" width="400"/>
+</div>
 <!--
 **AlanCoutinhoD/AlanCoutinhoD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
