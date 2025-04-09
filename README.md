@@ -33,7 +33,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AlanCoutinhoD&show_icons=true&theme=tokyonight" width="400"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlanCoutinhoD&theme=tokyonight" width="400"/>
   </div>
-<!--
+
+<div align="center">
+  <img src="https://giffiles.alphacoders.com/610/61072.gif](https://cdn.pfps.gg/pfps/5009-paimon-dance.gif" alt="HI" width="300"/>
+  Maybe one day I'll continue writing about myself or.... maybe not.
+</div>
+  <!--
 **AlanCoutinhoD/AlanCoutinhoD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
