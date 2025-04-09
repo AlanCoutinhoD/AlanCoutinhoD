@@ -36,6 +36,7 @@
 
 <div align="center">
   <img src="https://cdn.pfps.gg/pfps/5009-paimon-dance.gif" alt="HI" width="300"/>
+  <br>
   Maybe one day I'll continue writing about myself or.... maybe not.
 </div>
   <!--
