@@ -35,7 +35,7 @@
   </div>
 
 <div align="center">
-  <img src="https://giffiles.alphacoders.com/610/61072.gif](https://cdn.pfps.gg/pfps/5009-paimon-dance.gif" alt="HI" width="300"/>
+  <img src="https://cdn.pfps.gg/pfps/5009-paimon-dance.gif" alt="HI" width="300"/>
   Maybe one day I'll continue writing about myself or.... maybe not.
 </div>
   <!--
