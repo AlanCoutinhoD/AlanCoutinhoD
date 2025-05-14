@@ -27,7 +27,9 @@
 </span>
 </div>
   <br><br>
+  <div align="center">
   📈 GitHub Stats
+  </div>
   <br><br>
   <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AlanCoutinhoD&show_icons=true&theme=tokyonight" width="400"/>
